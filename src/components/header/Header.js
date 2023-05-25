@@ -12,7 +12,7 @@ const logo = (
   <div className={styles.logo}>
     <Link to="/">
       <h2>
-        <span>Cavana</span>
+        <span>Cavanaa</span>
       </h2>
     </Link>
   </div>
